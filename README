@@ -1,5 +1,5 @@
 Public data and code for reproducibility regarding aggregate findings from the paper: "Controlling COVID-19: labor structure is more important than policy." 
-Individual-level data is excluded here on account of privacy/ethical concerns. Therefore, these findings can only be used to reproduce Tables 2b, 2d, and 7-8.
+Individual-level data is excluded here on account of privacy/ethical concerns. Therefore, these findings can only be used to approximately reproduce estimates from Tables 2b, 2d, and 7-8. Because of the bootstrapping scheme used to generate these tables (which relies on individual-level data to resample aggregate metrics), standard errors reported here (using OLS with municipality-level point estimates) are slightly different from those in the text. 
 
 All data and code is provided freely by the authors under the Creative Commons BY 4.0 licence. We request that you cite any uses as you see fit.
 Questions? Comments? Please email sam.heroy@gmail.com
