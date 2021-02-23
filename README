@@ -7,8 +7,8 @@ What's here?
 -Aggregate results and figures.ipynb uses this data to construct aggregate findings as noted above.
 Because of the bootstrapping scheme used to generate these tables (which relies on individual-level data to resample aggregate metrics), standard errors reported here (using OLS with municipality-level point estimates) are slightly different from those in the text. 
 -pico y cedúla.zip has all the local advertisements in image files. 
-Also, the zip file contains a document, tpw.xlsx, that uses the information from these images in the form of population share allowed out daily, given what we assume are reasonable expectations (muncipalities have equal gender representation and ID numbers are distributed uniformly, so that your number is equally like to end in 1 or 9). 
-The last row in tpw.xlsx takes an average over the study period days for each municipality. There are also some notes about local municipalities (that can be seen in corresponding image files) that are not used in computations. 
+-tpw.xlsx uses the information from the local advertisement in the form of population share allowed out daily, given expectations (muncipalities have equal gender representation and ID numbers are distributed uniformly, so that each resident's number is equally like to end in 1 or 9). 
+The last row in tpw.xlsx takes an average over the study period days for each municipality. 
 
 All data and code is provided freely by the authors under the Creative Commons BY 4.0 licence. We request that you cite any uses as you see fit.
 Questions? Comments? Please email sam.heroy@gmail.com
