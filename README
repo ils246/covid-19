@@ -3,7 +3,7 @@ Individual-level data is excluded here on account of privacy/ethical concerns. T
 
 What's here?
 -mobility metrics.csv contains municipality level estimates for mean/percentile behavior changes from the basal period to the study period.
--muni_level_info.csv contains some economic/demographic information (which we use in our analyses) for the studied cities -including labor formality, GDP per capita, economic complexity, and population. In addition, this table has the fraction of days users were allowed out (on average) during the study period.
+-muni_level_info.csv contains some economic/demographic information (which we use in our analyses) for the studied cities - including labor formality, GDP per capita, economic complexity, and population. In addition, this table has the fraction of days users were allowed out (on average) during the study period.
 -Aggregate results and figures.ipynb uses this data to construct aggregate findings as noted above.
 Because of the bootstrapping scheme used to generate these tables (which relies on individual-level data to resample aggregate metrics), standard errors reported here (using OLS with municipality-level point estimates) are slightly different from those in the text. 
 -pico y cedúla.zip has all the local advertisements in image files. 
